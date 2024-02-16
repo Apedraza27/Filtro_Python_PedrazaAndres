@@ -1,0 +1,9 @@
+{
+    "movistar" : {
+        "usuario":{
+            "nombre" : "Juan",
+            "direccion" : "Perez",
+            "telefono" : 123456789
+        }
+    }
+}
